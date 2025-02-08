@@ -1,0 +1,23 @@
+# Entorno virtual (es importante que no subas tu entorno virtual al repositorio)
+env/
+venv/
+
+# Bases de datos SQLite (si usas SQLite)
+db.sqlite3
+
+# Archivos de configuración de IDEs (como Visual Studio Code o PyCharm)
+.vscode/
+.idea/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales de sistema (para sistemas como Mac o Windows)
+.DS_Store  # Para Mac
+Thumbs.db  # Para Windows
+
+# Archivos de configuración de Django
+*.log  # Archivos de log
+ 
